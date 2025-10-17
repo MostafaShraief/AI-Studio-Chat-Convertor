@@ -11,7 +11,7 @@ A command-line utility built with C# and .NET 9 for converting chat conversation
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MostafaShraief/AI-Studio-Chat-Convertor
    ```
 2. **Navigate to the project directory:**
    ```bash
